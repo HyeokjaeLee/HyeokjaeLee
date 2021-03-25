@@ -31,19 +31,4 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
-
-------
-## Business Tools
-### Automation
- <img src="https://img.shields.io/badge/Google Sheets (Script)-34A853?style=flat-square&logo=Google Sheets&logoColor=white"/>
- <img src="https://img.shields.io/badge/AutoHotKey-334455?style=flat-square&logo=AutoHotKey&logoColor=white"/>
-
-### Communication
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-### Schedule
-  <img src="https://img.shields.io/badge/Notion-334455?style=flat-square&logo=Notion&logoColor=white"/>
-
- ### etc.
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoHotKey-334455?style=flat-square&logo=AutoHotKey&logoColor=white"/>
