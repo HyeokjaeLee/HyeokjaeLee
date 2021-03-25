@@ -12,12 +12,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/>
     - library<br>
-     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tensorflow.js-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/><br><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow.js-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
  - Deploy with<br>
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
