@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nalgle&fontAlign=80&fontAlignY=40&color=gradient)
 
-## Tech I've used
+## :briefcase: Languages
 
 ### Main
 ![](https://img.shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3178c6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) ![](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=flat-square&logo=CSS3&logoColor=white)
