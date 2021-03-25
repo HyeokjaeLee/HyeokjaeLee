@@ -3,7 +3,7 @@
 <center>
 
 ### :briefcase: Main Languages
-![](https://img.shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3178c6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3178c6?style=flat-square&logo=typescript&logoColor=white){: .align-center} ![](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 #### :construction: Framework
 ![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-&logo=Node.js&logoColor=white)
