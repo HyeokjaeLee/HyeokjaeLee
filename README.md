@@ -1,20 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nalgle&fontAlign=80&fontAlignY=40&color=gradient)
 
-## Development Environment
-### OS
-- Main<br>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/><br>
-- Sub<br>
-<img src="https://img.shields.io/badge/elementary (Linux)-eeeeee?style=flat-square&logo=elementary&logoColor=black"/><br>
-
-### IDE
-- Main<br>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
-- Sub<br>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-------
-
 ## Tech I've used
 
 ### Main
