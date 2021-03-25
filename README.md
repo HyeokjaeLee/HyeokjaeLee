@@ -3,14 +3,10 @@
 ## Tech I've used
 
 ### Main
-<img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+![](https://img.shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3178c6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat-square&logo=Javascript&logoColor=black) ![](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 - Framework<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/>
+![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-&logo=Node.js&logoColor=white)
     - library<br>
      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/><br><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow.js-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
  - Deploy with<br>
