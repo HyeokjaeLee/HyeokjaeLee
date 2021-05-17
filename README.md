@@ -1,5 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nagle&fontAlign=80&fontAlignY=40&color=gradient)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokjaeLee%2Fknu-lms-scheduler&count_bg=%23000000&title_bg=%23675F54&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokjaeLee%2Fknu-lms-scheduler&count_bg=%23000000&title_bg=%23675F54&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 ### :briefcase: Languages
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3178c6?style=flat-square&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
