@@ -8,7 +8,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 #### :construction: Framework
-![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node-dot-js&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white) ![EXPRESS](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 ##### :notebook_with_decorative_cover: library
 ![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white) ![TENSORFLOW](https://img.shields.io/badge/Tensorflow.js-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
