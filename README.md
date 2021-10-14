@@ -4,7 +4,7 @@
 
 (Not related to the Nagle`s algorithm)
 
-## I'm a coder who dreams of becoming a full stack developer.
+## I'm a coder who dreams of becoming a full stack developer
 
 - 💭 I'm lazy, so I always think about a more convenient way.
 - ❤️ I love the Javascript ecosystem and enjoy learning new technologies.
@@ -40,6 +40,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-### 👣 Thank you for visiting.
+### 👣 Thank you for visiting
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeokjaeLee%2Fknu-lms-scheduler&count_bg=%23000000&title_bg=%23675F54&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)
