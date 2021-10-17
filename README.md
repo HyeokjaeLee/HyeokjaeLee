@@ -12,7 +12,7 @@
 - 👁‍🗨 I put emphasis on Know-What, Know-Where.
 - 📱 I'm very interested in tech devices.
 
-### 🤝 Contact with me
+### 🤝 Contact & Channel
 
 [![Blog](https://img.shields.io/badge/Blog-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white)](https://hyeokjaelee.github.io/)
 [![Gmail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:leehyeokjae97@gmail.com)
